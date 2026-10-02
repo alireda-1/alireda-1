@@ -7,4 +7,5 @@ I am a passionate beginner programmer focusing entirely on mastering **Python** 
 * 🎯 Current Goal: Build my first 5 Python applications.
 
 ### 🛠️ Tech Stack
-![Python](https://shields.io)
+<img src="https://shields.io" />
+
